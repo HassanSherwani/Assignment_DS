@@ -1,8 +1,3 @@
-# Set-up the PostgreSQL and jupyter for test
-
-The repo contains a set-up for a PostgreSQL database which contains some demo POS data.
-Further a and jupyter notebook server is configured which can be started to use notebooks.
-Both, the database and the notebook server, can be started with docker.
 
 # Install dependencies. Run following command
 
