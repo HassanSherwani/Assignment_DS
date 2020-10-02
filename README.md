@@ -4,7 +4,12 @@ The repo contains a set-up for a PostgreSQL database which contains some demo PO
 Further a and jupyter notebook server is configured which can be started to use notebooks.
 Both, the database and the notebook server, can be started with docker.
 
-## Setup with Docker
+# Install dependencies. Run following command
+
+ ```bash
+pip install -r requirements.txt
+```
+# Setup with Docker
 
 Docker and docker-compose need to be installed. To start the services run
 
